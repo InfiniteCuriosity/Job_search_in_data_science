@@ -13,7 +13,7 @@ About me:<br>
 <br>
 These are my general recommendations for people in Operations Research/Machine Learning/Data Science for placement in industry based on my 40+ years as a recruiter.
 
-**First**: Businesses want to see results, not activities. Fix your resume to show results:
+**First**: Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities:
 
 GOOD example #1:
 7% reduction in pollution in Lake Erie samples from machine learning models using 12 different models, including regular learning and deep learning. The most accurate model correctly identified three features which caused 85% of the pollution, (which is verified in the test data), and is being used to improve water conditions in Lake Erie.
