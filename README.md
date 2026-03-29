@@ -116,12 +116,12 @@ Get involved in (data science) communities, make contributions, offer to help at
 
 Join professional organizations in your field and GO TO EVENTS! Find your local chapters and join them!
 
-https://www.amstat.org/ (American Statistical Association)
-https://www.informs.org/ (INFORMS)
-Bureau of Justice Statistics: https://en.wikipedia.org/wiki/Bureau_of_Justice_Statistics
-Statistical Organizations in the United States: https://en.wikipedia.org/wiki/Category:Statistical_organizations_in_the_United_States
-
-Meetups: Join your local data science chapter or get involved with large national and worldwide chapters! https://www.meetup.com/topics/data-science/
+https://www.amstat.org/ (American Statistical Association)<br>
+https://www.informs.org/ (INFORMS)<br>
+Bureau of Justice Statistics: https://en.wikipedia.org/wiki/Bureau_of_Justice_Statistics <br>
+Statistical Organizations in the United States: https://en.wikipedia.org/wiki/Category:Statistical_organizations_in_the_United_States<br>
+<br>
+Meetups: Join your local data science chapter or get involved with large national and worldwide chapters! <br>https://www.meetup.com/topics/data-science/<br>
 https://www.meetup.com/nyc-data-science/ (has 7,000+ members and regular meetings!)
 
 **Seventh**:
