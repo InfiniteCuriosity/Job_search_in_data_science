@@ -92,7 +92,7 @@ Create your portfolio and put it online!
 
 **Fourth**: Sign up with multiple recruiting companies, they almost always have job leads that are not public information. NEVER pay a recruiting company any money. Here are a few examples, I encourage you to find more recruiting companies:
 
-burtchworks.com
+https://www.burtchworks.com
 
 https://www.peopleinai.com/blog/data-science-recruiting-firms
 
