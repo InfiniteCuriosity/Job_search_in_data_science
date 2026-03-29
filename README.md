@@ -37,7 +37,7 @@ Fix your resume to show results and accomplishments, not just activities.
 
 Businesses search for skills, so it’s OK to put a skills section in your resume. Do it!
 
-Do Pro Bono Analytics Work! It definitely counts as real work that you can put on your resume and in your portfolio!
+**Do Pro Bono Analytics Work!** It definitely counts as real work that you can put on your resume and in your portfolio!
 
 A great way to add to your experience is to do pro bono analytics work. Many non-profit organizations would love to have the benefit of your skills and experience.
 
