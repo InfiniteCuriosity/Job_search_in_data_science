@@ -120,7 +120,7 @@ Join professional organizations in your field and GO TO EVENTS! Find your local 
 
 https://www.amstat.org/ (American Statistical Association)<br>
 https://www.informs.org/ (INFORMS)<br>
-Bureau of Justice Statistics: https://en.wikipedia.org/wiki/Bureau_of_Justice_Statistics <br>
+https://bjs.ojp.gov/ (Bureau of Justice Statistics)<br>
 Statistical Organizations in the United States: https://en.wikipedia.org/wiki/Category:Statistical_organizations_in_the_United_States<br>
 <br>
 Meetups: Join your local data science chapter or get involved with large national and worldwide chapters! <br>https://www.meetup.com/topics/data-science/<br>
