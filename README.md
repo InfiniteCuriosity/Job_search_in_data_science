@@ -4,6 +4,7 @@ Russ Conte
 russconte@mac.com<br>
 (708) 691-8339<br>
 https://github.com/infinitecuriosity<br>
+https://www.ensembles1.com<br>
 <br>
 About me:<br>
 38 years in recruiting. I’ve hired more than 15,000 people, mainly in the Chicago area. Worked for the last 29 years for a multi-billion dollar company (Kelly Services), mainly as a Recruiter. My education includes a Master of Education in Guidance and Counseling, with a speciality of Vocational Placement of Individuals with Disabilities. In 2017 I completed a Master of Science in Predictive Analytics from Northwestern University in Evanston, Illinois.
