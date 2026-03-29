@@ -1,0 +1,135 @@
+Resume and job search recommendations
+
+Russ Conte
+russconte@mac.com
+(708) 691-8339
+https://github.com/infinitecuriosity
+
+About me:
+38 years in recruiting. I’ve hired more than 15,000 people, mainly in the Chicago area. Worked for the last 29 years for a multi-billion dollar company (Kelly Services), mainly as a Recruiter. My education includes a Master of Education in Guidance and Counseling, with a speciality of Vocational Placement of Individuals with Disabilities. In 2017 I completed a Master of Science in Predictive Analytics from Northwestern University in Evanston, Illinois.
+
+These are my general recommendations for people in Operations Research/Machine Learning/Data Science for placement in industry based on my 40+ years as a recruiter.
+
+**First**: Businesses want to see results, not activities. Fix your resume to show results:
+
+GOOD example #1:
+7% reduction in pollution in Lake Erie samples from machine learning models using 12 different models, including regular learning and deep learning. The most accurate model correctly identified three features which caused 85% of the pollution, (which is verified in the test data), and is being used to improve water conditions in Lake Erie.
+
+BAD example #1: (do NOT do this type of writing, it shows activities but no results)
+Studied water pollution in a major lake in the midwest United States. Built several statistical models which were submitted to the authorities for review. Built one predictive model.
+
+GOOD example #2:
+$1,175,000 in revenue saved from machine learning models of bank loans. Tested 23 models and found that tuned linear, random forest, and lasso models predicted 83% of the losses. The models predicted which customers might be in danger of default, allowing the bank to take action to prevent the default of the loans. 100% of the customers surveyed said they appreciated the bank successfully saving their loan.
+
+BAD example #2:
+Analyzed bank loan data. Built models to predict default on loans. Multiple models were tested to predict which customers might default on their loans. Sent out satisfaction surveys.
+
+Good example #3:
+Taught 12 students advanced machine learning and model diagnostics, 35 students achieved the intermediate level, 44 achieved the basic level of building machine learning models. Verified from homework and test assignments. 60 students elected to take the next level class.
+
+Bad example #3:
+Taught class in basic machine learning to undergraduate students. Graded papers, quizzes and tests. Gave feedback on homework.
+
+Fix your resume to show results and accomplishments, not just activities.
+
+Businesses search for skills, so it’s OK to put a skills section in your resume. Do it!
+
+Do Pro Bono Analytics Work! It definitely counts as real work that you can put on your resume and in your portfolio!
+
+A great way to add to your experience is to do pro bono analytics work. Many non-profit organizations would love to have the benefit of your skills and experience.
+
+Informs:
+https://connect.informs.org/probonoanalytics/home
+
+Statistics Without Borders:
+https://www.statisticswithoutborders.org/
+
+Statisticians for Society:
+https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/
+
+A good article with links:
+https://medium.com/@Emma_Donery/online-platforms-for-free-data-volunteer-opportunities-7455b7b76107
+
+Datakind:
+https://www.datakind.org/
+
+Check your university for Statistics in the (local) Community
+
+**Second**: Businesses want to reduce the risk of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.)
+
+It is always good to include documents beyond your resume in your submittals, such as reference letters, transcripts (with SS# and date of birth blocked out), performance reviews, work samples, writing samples, articles you’ve written, summaries of reviews you’ve received, lists of future projects you are working on, etc., etc., etc.
+
+Recruiter secret: It’s good to also show recognition that you’ve received that is not a formal award. Usually they come in emails, and I STRONGLY recommend saving them.
+
+Here are two real examples from my experience:
+
+*******************
+Gabrielle (my boss at the time)
+ SHOUT OUT TO RUSS!!!!!
+He has been just STUFFING our in-box with LEADS!!!!!!!
+Between Casey and myself, we are dividing and going after them.
+RUSS!!!!  Thank you sir!!!!  You are dynamite!!!! 
+*******************
+*******************
+Hello everyone!  I would like to crown Russ as our Monthly MVP for March!  I am a day late, but his dedication, effort and hard work has not gone unnoticed.  Russ’ passion for our community and service is virtually unparalleled and I was reminded today of just how strong his customer service acumen truly is.  Russ, you are welcome to redeem your early out any time you want (Tuesday - Thursday)!
+*******************
+
+Recruiter Secret #2: A good way to receive these types of messages is to give this kind of praise when people deserve it. Do it in a way that truly creates a healthy business relationship, and you’ll get more of these types of messages sent to you!
+
+Recruiter secret #3: You can also highlight accomplishments that are not recognized by your employer (preferably that you can verify), such as mentoring, excellent attendance, etc.
+
+**Third**: Businesses want to know you can communicate well.
+If you have anything online that is listed on your resume, you MUST put a link in your resume. Do not ever make a manager or recruiter hunt down your information if it’s available. Make it as easy as possible for the manager to verify the information on your resume!
+
+A great example of a portfolio: https://lelanddataconsulting.com/
+
+Article (I have no connection to anyone mentioned in this article):
+Nine examples of great data science portfolios:
+https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/
+
+Create your portfolio and put it online!
+
+**Fourth**: Sign up with multiple recruiting companies, they almost always have job leads that are not public information. NEVER pay a recruiting company any money. Here are a few examples, I encourage you to find more recruiting companies:
+
+burtchworks.com
+
+https://www.peopleinai.com/blog/data-science-recruiting-firms
+
+https://www.analyticsinsight.net/data-science/best-tools-for-real-time-data-science-analytics-in-2025-top-picks
+
+https://devsdata.com/top-data-science-recruitment-agencies/
+
+
+**Fifth**: Salary and company information
+The salaries of most government jobs in the United States are public information. For example, search for salaries at Fermilab in Batavia, Illinois. Recruiters (see point #4: Sign up with several recruiting companies) almost always have access to salary information that the public does not have. Work with your Recruiter to get realistic salary ranges. Here are some public sources:
+
+https://www.glassdoor.com/index.htm has salary information, job reviews, and more
+
+https://www.burtchworks.com/market-researchers-salary-report-2025/ai-and-data-science-2025compensationreport-introduction
+
+Company information (part 2)
+A great way to find out the real job duties is to work with someone who has resume access to sites such as Indeed.com. Do a reverse resume search for a person who currently (or recently) holds the job you are interested in at the place you want to work. Virtually everyone will put items on their resume about their job which are not on the job description. 
+
+**Sixth**: It’s not only who you know, it’s also who knows you. 
+Get involved in (data science) communities, make contributions, offer to help at events, get your name out there!
+
+Join professional organizations in your field and GO TO EVENTS! Find your local chapters and join them!
+
+https://www.amstat.org/ (American Statistical Association)
+https://www.informs.org/ (INFORMS)
+Bureau of Justice Statistics: https://en.wikipedia.org/wiki/Bureau_of_Justice_Statistics
+Statistical Organizations in the United States: https://en.wikipedia.org/wiki/Category:Statistical_organizations_in_the_United_States
+
+Meetups: Join your local data science chapter or get involved with large national and worldwide chapters! https://www.meetup.com/topics/data-science/
+https://www.meetup.com/nyc-data-science/ (has 7,000+ members and regular meetings!)
+
+**Seventh**:
+Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job.
+
+Ask what most strongly predicts success in this role.
+
+Ask what is one thing you can do to improve your chances to get this role.
+
+Ask what the ideal (“Michael Jordan” or GOAT) candidate is like, then show how you can fill the role.
+
+Ask what the long range goals are for this role, then show how you can help meet those goals.
