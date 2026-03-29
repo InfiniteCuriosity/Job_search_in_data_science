@@ -1,5 +1,7 @@
 Resume and job search recommendations
 
+Last update Sunday March 29, 2026.
+
 Russ Conte
 russconte@mac.com<br>
 (708) 691-8339<br>
