@@ -125,6 +125,11 @@ Statistical Organizations in the United States: https://en.wikipedia.org/wiki/Ca
 <br>
 Meetups: Join your local data science chapter or get involved with large national and worldwide chapters! <br>https://www.meetup.com/topics/data-science/<br>
 https://www.meetup.com/nyc-data-science/ (has 7,000+ members and regular meetings!)
+https://www.meetup.com/topics/data-center-and-operations-automation/
+https://www.meetup.com/topics/data-analytics/
+https://www.meetup.com/topics/businessintell/
+https://www.meetup.com/topics/big-data-analytics/
+https://www.meetup.com/topics/ (in case you want to see the whole list of Meetup topics)
 
 **Seventh**:
 Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job.
