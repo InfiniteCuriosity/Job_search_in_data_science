@@ -58,7 +58,7 @@ https://www.datakind.org/
 
 Check your university for Statistics in the (local) Community
 
-** Freelance Work **
+** Freelance Work **<br>
 https://www.freelancer.com/jobs/data-science/<br>
 https://www.upwork.com/freelance-jobs/data-science/<br>
 https://www.toptal.com/freelance-jobs/developers/data-science<br>
