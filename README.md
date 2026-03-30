@@ -59,11 +59,11 @@ https://www.datakind.org/
 Check your university for Statistics in the (local) Community
 
 ** Freelance Work **
-https://www.freelancer.com/jobs/data-science/
-https://www.upwork.com/freelance-jobs/data-science/
-https://www.toptal.com/freelance-jobs/developers/data-science
-https://jobgether.com/remote-jobs/data-science
-https://datasciencejobs.com
+https://www.freelancer.com/jobs/data-science/<br>
+https://www.upwork.com/freelance-jobs/data-science/<br>
+https://www.toptal.com/freelance-jobs/developers/data-science<br>
+https://jobgether.com/remote-jobs/data-science<br>
+https://datasciencejobs.com<br><br>
 
 **Second**: Businesses want to reduce the risk of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.)
 
