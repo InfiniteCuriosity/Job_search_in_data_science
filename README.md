@@ -1,6 +1,6 @@
 Resume and job search recommendations
 
-Last update Sunday March 29, 2026.
+Last update Monday March 30, 2026.
 
 Russ Conte
 russconte@mac.com<br>
@@ -57,6 +57,13 @@ Datakind:
 https://www.datakind.org/
 
 Check your university for Statistics in the (local) Community
+
+** Freelance Work **
+https://www.freelancer.com/jobs/data-science/
+https://www.upwork.com/freelance-jobs/data-science/
+https://www.toptal.com/freelance-jobs/developers/data-science
+https://jobgether.com/remote-jobs/data-science
+https://datasciencejobs.com
 
 **Second**: Businesses want to reduce the risk of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.)
 
