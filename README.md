@@ -90,7 +90,9 @@ From: Sales guy I helped by figuring out how to so an SQL-type search to generat
  SHOUT OUT TO RUSS!!!!!<br>
 He has been just STUFFING our in-box with LEADS!!!!!!!<br>
 Between Casey and myself, we are dividing and going after them.<br>
-RUSS!!!!  Thank you sir!!!!  You are dynamite!!!!<br>
+RUSS!!!!<br>
+Thank you sir!!!!<br>
+You are dynamite!!!!<br>
 *******************
 *******************
 Hello everyone!  I would like to crown Russ as our Monthly MVP for March!  I am a day late, but his dedication, effort and hard work has not gone unnoticed.  Russ’ passion for our community and service is virtually unparalleled and I was reminded today of just how strong his customer service acumen truly is.  Russ, you are welcome to redeem your early out any time you want (Tuesday - Thursday)!
