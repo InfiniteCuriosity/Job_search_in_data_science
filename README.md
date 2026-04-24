@@ -124,37 +124,37 @@ https://www.analyticsinsight.net/data-science/best-tools-for-real-time-data-scie
 https://devsdata.com/top-data-science-recruitment-agencies/
 
 
-**Fifth**: <b>Show you can solve the issue(s) they are hiring you to solve.</b>
-I am shocked how many people will apply for a job by sending their generic resume (which requires the employer to figure out if the person can actually do the job in the first place), and do not include any other documents. No performance reviews, awards, articles or blogs published, presentations, mentoring, etc., and then they are mad/angry/frustrated/disappointed/surprised when they do not get the job.
-
-I give my highest recommendation to the Avril Lavinge method of doing this:
-
-• Understand the customer's problems and why the job is open. It's shocking to me how many people totally miss this part.
-• Show what you can do to solve the problem(s) or opportunities the company needs to solve. It's shocking to me how many people totally miss this part.
-• Present your skills like the line from Avril Lavigne, "Can I make it any more obvious???"
-
-Great resources to learn more about companies:
-
-• Most larger companies have a profile on Github (seriously!). Look it up, you may use this in your interview/application/research, etc.
-
-Apple on Github: https://github.com/apple (405 repositories)
-Facebook (Meta) on Github: https://github.com/facebook (169 repositories)
-Amazon on github: https://github.com/amzn (168 repositories)
-Netflix: https://github.com/netflix (234 repositories)
-NASA: https://github.com/nasa (615 repositories)
-United States Department of Labor: https://github.com/USDepartmentofLabor (89 repositories)
-The American National Red Cross: https://github.com/americanredcross (149 repositories)
-Northwestern University Library (just the library systems): https://github.com/nulib (132 repositories)
-
-You can look up the company's social media (of course)
-
-• Look up their Annual Reports:
-
-10,000+ company annual reports: https://www.annualreports.com
-
-• Research their recent news (I do this a LOT!):
-
-news.google.com, then search for company name and time (I usually search the most recent 7 days)
+**Fifth**: <b>Show you can solve the issue(s) they are hiring you to solve.</b><br>
+I am shocked how many people will apply for a job by sending their generic resume (which requires the employer to figure out if the person can actually do the job in the first place), and do not include any other documents. No performance reviews, awards, articles or blogs published, presentations, mentoring, etc., and then they are mad/angry/frustrated/disappointed/surprised when they do not get the job.<br>
+<br>
+I give my highest recommendation to the Avril Lavinge method of doing this:<br>
+<br>
+• Understand the customer's problems and why the job is open. It's shocking to me how many people totally miss this part.<br>
+• Show what you can do to solve the problem(s) or opportunities the company needs to solve. It's shocking to me how many people totally miss this part.<br>
+• Present your skills like the line from Avril Lavigne, "Can I make it any more obvious???"<br>
+<br>
+Great resources to learn more about companies:<br>
+<br>
+• Most larger companies have a profile on Github (seriously!). Look it up, you may use this in your interview/application/research, etc.<br>
+<br>
+Apple on Github: https://github.com/apple (405 repositories)<br>
+Facebook (Meta) on Github: https://github.com/facebook (169 repositories)<br>
+Amazon on github: https://github.com/amzn (168 repositories)<br>
+Netflix: https://github.com/netflix (234 repositories)<br>
+NASA: https://github.com/nasa (615 repositories)<br>
+United States Department of Labor: https://github.com/USDepartmentofLabor (89 repositories)<br>
+The American National Red Cross: https://github.com/americanredcross (149 repositories)<br>
+Northwestern University Library (just the library systems): https://github.com/nulib (132 repositories)<br>
+<br>
+You can look up the company's social media (of course)<br>
+<br>
+• Look up their Annual Reports:<br>
+<br>
+10,000+ company annual reports: https://www.annualreports.com (there are other ways to look up annual reports)
+<br>
+• Research their recent news (I do this a LOT!):<br>
+<br>
+news.google.com, then search for company name and time (I usually search the most recent 7 days)<br>
 
 <img width="714" height="415" alt="Screenshot 2026-04-24 at 9 45 18 AM" src="https://github.com/user-attachments/assets/a99b3a3d-8ca8-4a14-834e-c97598ecf32f" />
 
