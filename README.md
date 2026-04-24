@@ -124,7 +124,7 @@ https://www.analyticsinsight.net/data-science/best-tools-for-real-time-data-scie
 https://devsdata.com/top-data-science-recruitment-agencies/
 
 
-**Fifth**: Solve the issue(s) they are hiring you to solve,salaries and company information
+**Fifth**: <b>Show you can solve the issue(s) they are hiring you to solve.</b>
 I am shocked how many people will apply for a job by sending their generic resume (which requires the employer to figure out if the person can actually do the job in the first place), and do not include any other documents. No performance reviews, awards, articles or blogs published, presentations, mentoring, etc., and then they are mad/angry/frustrated/disappointed/surprised when they do not get the job.
 
 I give my highest recommendation to the Avril Lavinge method of doing this:
