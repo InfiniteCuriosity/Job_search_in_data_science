@@ -152,6 +152,9 @@ You can look up the company's social media (of course)<br>
 <br>
 10,000+ company annual reports: https://www.annualreports.com (there are other ways to look up annual reports)
 <br>
+
+• I also do a search for the company name and "lawsuit", "discrimination", "layoff", and anything else that might be useful/relevant.<br>
+<br>
 • Research their recent news (I do this a LOT!):<br>
 <br>
 news.google.com, then search for company name and time (I usually search the most recent 7 days)<br>
