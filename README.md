@@ -87,7 +87,7 @@ Here are two real examples from my experience:
 *******************
 To: (my boss at the time)<br>
 From: Sales guy I helped by figuring out how to so an SQL-type search to generate hidden sales leads I sent to him<br>
- SHOUT OUT TO RUSS!!!!!<br>
+ Subject: SHOUT OUT TO RUSS!!!!!<br>
 He has been just STUFFING our in-box with LEADS!!!!!!!<br>
 Between Casey and myself, we are dividing and going after them.<br>
 RUSS!!!!<br>
