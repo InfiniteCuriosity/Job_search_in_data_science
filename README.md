@@ -209,3 +209,5 @@ Ask what the ideal (“Michael Jordan” or GOAT) candidate is like, then show h
 Ask what the long range goals are for this role, then show how you can help meet those goals.
 
 I've done some research on your company, how open are you to ideas that might help improve results based on my research?
+
+I've done some research on your strongest competitors, would you like to know what I found?
