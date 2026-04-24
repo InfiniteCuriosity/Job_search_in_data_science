@@ -145,7 +145,6 @@ NASA: https://github.com/nasa (615 repositories)<br>
 United States Department of Labor: https://github.com/USDepartmentofLabor (89 repositories)<br>
 The American National Red Cross: https://github.com/americanredcross (149 repositories)<br>
 Northwestern University Library (just the library systems): https://github.com/nulib (132 repositories)<br>
-<br>
 Posit: https://github.com/posit-dev<br>
 <br>
 You can look up the company's social media (of course)<br>
