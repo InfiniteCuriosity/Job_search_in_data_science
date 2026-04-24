@@ -148,7 +148,7 @@ Northwestern University Library (just the library systems) on Github: https://gi
 Posit on Github: https://github.com/posit-dev<br>
 Harvard Medical School - Department of Biomedical Informatics on Github: https://github.com/hms-dbmi<br>
 Top ten trending Github repositories: https://github.com/trending<br>
-Top trending Github developers: https://github.com/developers<br>
+Top trending Github developers: https://github.com/trending/developers<br>
 <br>
 You can look up the company's social media (of course)<br>
 <br>
