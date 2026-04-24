@@ -210,4 +210,4 @@ Ask what the long range goals are for this role, then show how you can help meet
 
 I've done some research on your company, how open are you to ideas that might help improve results based on my research?
 
-I've done some research on your some of your competitors, would you like to know what I found?
+I've done some research on your some of your competitors, would you like to know what I found, and how it seems you compare to them?
