@@ -194,13 +194,13 @@ https://www.meetup.com/topics/big-data-analytics/<br>
 https://www.meetup.com/topics/ (in case you want to see the whole list of Meetup topics)<br>
 
 **Seventh**:
-Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job.
+Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job, and/or are doing the same (or silimar) job at a different location. This is the only thing I used LinkedIn to do.
 
 • Questions you can ask when they look at you and say, 'So, do you have any questions for us?'
 
 Ask what most strongly predicts success in this role?
 
-I want to make sure I understand why the role is open, then show why my skills are a very strong match.
+I want to make sure I understand why the role is open, then show why my skills are a very strong match. (this is the, "Can I make it any more obvious???" part)
 
 Ask what is one thing you (the job candidate) can do to improve your probability of getting this role?
 
@@ -210,4 +210,4 @@ Ask what the long range goals are for this role, then show how you can help meet
 
 I've done some research on your company, how open are you to ideas that might help improve results based on my research?
 
-I've done some research on your some of your competitors, would you like to know what I found, and how it seems you compare to them?
+I've done some research on your some of your competitors, would you like to know what I found, and how it seems you compare to them? (it's common to do competitor analysis using Strengths, Weaknesses, Opportunities and Threats, called a SWOT analysis)
