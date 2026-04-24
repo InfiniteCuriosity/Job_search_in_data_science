@@ -9,9 +9,9 @@ https://github.com/infinitecuriosity<br>
 https://www.ensembles1.com<br>
 <br>
 About me:<br>
-38 years in recruiting. I’ve hired more than 15,000 people, mainly in the Chicago area. Worked for the last 29 years for a multi-billion dollar company (Kelly Services), mainly as a Recruiter. My education includes a Master of Education in Guidance and Counseling, with a speciality of Vocational Placement of Individuals with Disabilities. In 2017 I completed a Master of Science in Predictive Analytics from Northwestern University in Evanston, Illinois. I've published four packages on CRAN, with several more in the works (so my data science skills are OK).<br>
+38 years in recruiting in both the private and public sectors. I’ve hired more than 15,000 people, mainly in the Chicago area. Worked for the last 29 years for a multi-billion dollar company (Kelly Services), mainly as a Recruiter. My education includes a Master of Education in Guidance and Counseling, with a speciality of Vocational Placement of Individuals with Disabilities. In 2017 I completed a Master of Science in Predictive Analytics from Northwestern University in Evanston, Illinois. I've published four packages on CRAN, with several more in the works (so my data science skills are OK).<br>
 <br>
-These are my general recommendations for people in Operations Research/Machine Learning/Data Science for placement in industry based on my 40+ years as a recruiter.
+These are my general recommendations for people in Operations Research/Machine Learning/Data Science for placement in industry based on my years as a recruiter.
 
 **Outline**
 1. Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities.
