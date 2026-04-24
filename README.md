@@ -15,11 +15,11 @@ These are my general recommendations for people in Operations Research/Machine L
 
 **Outline**
 1. Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities.
-2. Businesses want to reduce the risk of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.)
-3. Businesses want to know you can communicate well.
+2. Businesses want to reduce the risks of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.) to reduce the risk
+3. Businesses want to know you can communicate well. Give them examples.
 4. Sign up with multiple recruiting companies, they almost always have job leads that are not public information. NEVER pay a recruiting company any money.
-5. Salary and company information
-6. It’s not only who you know, it’s also who knows you.
+5. Salary and company information, finding company information on Github, Glassdoor, etc.
+6. It’s not only who you know, it’s also who knows you. People to people contact.
 7. Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job. This section also includes great questions to ask when they look at you and say, 'So, do you have any questions for us?'
 
 **First**: Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities:
