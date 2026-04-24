@@ -1,6 +1,6 @@
 Resume and job search recommendations
 
-Last update Monday March 30, 2026.
+Last update Friday, April 24, 2026.
 
 Russ Conte
 russconte@mac.com<br>
@@ -12,6 +12,15 @@ About me:<br>
 38 years in recruiting. I’ve hired more than 15,000 people, mainly in the Chicago area. Worked for the last 29 years for a multi-billion dollar company (Kelly Services), mainly as a Recruiter. My education includes a Master of Education in Guidance and Counseling, with a speciality of Vocational Placement of Individuals with Disabilities. In 2017 I completed a Master of Science in Predictive Analytics from Northwestern University in Evanston, Illinois.<br>
 <br>
 These are my general recommendations for people in Operations Research/Machine Learning/Data Science for placement in industry based on my 40+ years as a recruiter.
+
+**Outline**
+1. Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities.
+2. Businesses want to reduce the risk of hiring you, so they look to your performance in prior work. Give them letters of recommendations from Supervisors, Mentors, Advisors, Managers, Performance Reviews, (etc.)
+3. Businesses want to know you can communicate well.
+4. Sign up with multiple recruiting companies, they almost always have job leads that are not public information. NEVER pay a recruiting company any money.
+5. Salary and company information
+6. It’s not only who you know, it’s also who knows you.
+7. Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job. This section also includes great questions to ask when they look at you and say, 'So, do you have any questions for us?'
 
 **First**: Businesses want to see results, not activities. Fix your resume to show results and accomplishments, not just activities:
 
@@ -35,7 +44,9 @@ Taught class in basic machine learning to undergraduate students. Graded papers,
 
 Fix your resume to show results and accomplishments, not just activities.
 
-Businesses search for skills, so it’s OK to put a skills section in your resume. Do it!
+Businesses search for skills, so it’s OK to put a skills section in your resume (usually at the bottom). Example:
+
+Skills: package development, Github, data driven recommendations, talent analytics, people analytics, business intelligence, recruitment, report writing, English, R, data science, Spanish, Python, PowerBI, Tableau, Google Analytics, SQL, CI/CD, Git, Tidyverse, Neuralnet, RandomForest, XGBoost, dplyr, E1071, ggplot, reactable, Earth, Shiny, Scikit-Learn, NumPy, Pandas, Matplotlib, Keras, Jupyter, Markdown, Quarto, hypothesis testing, data cleaning, risk analysis, root cause analysis, text mining, compliance.
 
 **Do Pro Bono Analytics Work!** It definitely counts as real work that you can put on your resume and in your portfolio!
 
@@ -74,7 +85,8 @@ Recruiter secret: It’s good to also show recognition that you’ve received th
 Here are two real examples from my experience:
 
 *******************
-Gabrielle (my boss at the time)
+To: (my boss at the time)
+From: Sales guy I helped by figuring out how to so an SQL-type search to generate hidden sales leads I sent to him
  SHOUT OUT TO RUSS!!!!!
 He has been just STUFFING our in-box with LEADS!!!!!!!
 Between Casey and myself, we are dividing and going after them.
@@ -110,15 +122,53 @@ https://www.analyticsinsight.net/data-science/best-tools-for-real-time-data-scie
 https://devsdata.com/top-data-science-recruitment-agencies/
 
 
-**Fifth**: Salary and company information
-The salaries of most government jobs in the United States are public information. For example, search for salaries at Fermilab in Batavia, Illinois. Recruiters (see point #4: Sign up with several recruiting companies) almost always have access to salary information that the public does not have. Work with your Recruiter to get realistic salary ranges. Here are some public sources:
+**Fifth**: Solve the issue(s) they are hiring you to solve,salaries and company information
+I am shocked how many people will apply for a job by sending their generic resume (which requires the employer to figure out if the person can actually do the job in the first place), and do not include any other documents. No performance reviews, awards, articles or blogs published, presentations, mentoring, etc., and then they are mad/angry/frustrated/disappointed/surprised when they do not get the job.
+
+I give my highest recommendation to the Avril Lavinge method of doing this:
+
+• Understand the customer's problems and why the job is open. It's shocking to me how many people totally miss this part.
+• Show what you can do to solve the problem(s) or opportunities the company needs to solve. It's shocking to me how many people totally miss this part.
+• Present your skills like the line from Avril Lavigne, "Can I make it any more obvious???"
+
+Great resources to learn more about companies:
+
+• Most larger companies have a profile on Github (seriously!). Look it up, you may use this in your interview/application/research, etc.
+
+Apple on Github: https://github.com/apple (405 repositories)
+Facebook (Meta) on Github: https://github.com/facebook (169 repositories)
+Amazon on github: https://github.com/amzn (168 repositories)
+Netflix: https://github.com/netflix (234 repositories)
+NASA: https://github.com/nasa (615 repositories)
+United States Department of Labor: https://github.com/USDepartmentofLabor (89 repositories)
+The American National Red Cross: https://github.com/americanredcross (149 repositories)
+Northwestern University Library (just the library systems): https://github.com/nulib (132 repositories)
+
+You can look up the company's social media (of course)
+
+• Look up their Annual Reports:
+
+10,000+ company annual reports: https://www.annualreports.com
+
+• Research their recent news (I do this a LOT!):
+
+news.google.com, then search for company name and time (I usually search the most recent 7 days)
+
+<img width="714" height="415" alt="Screenshot 2026-04-24 at 9 45 18 AM" src="https://github.com/user-attachments/assets/a99b3a3d-8ca8-4a14-834e-c97598ecf32f" />
+
+• Salaries of most government jobs in the United States are public information. For example, search for salaries at Fermilab in Batavia, Illinois. Recruiters (see point #4: Sign up with several recruiting companies) almost always have access to salary information that the public does not have. Work with your Recruiter to get realistic salary ranges. Here are some public sources:
+
+[https://opengovpay.com](https://opengovpay.com/jobs) (but look up other open sites that list pay for government roles)
 
 https://www.glassdoor.com/index.htm has salary information, job reviews, and more
 
 https://www.burtchworks.com/market-researchers-salary-report-2025/ai-and-data-science-2025compensationreport-introduction
 
 Company information (part 2)
-A great way to find out the real job duties is to work with someone who has resume access to sites such as Indeed.com. Do a reverse resume search for a person who currently (or recently) holds the job you are interested in at the place you want to work. Virtually everyone will put items on their resume about their job which are not on the job description. 
+A great way to find out the real job duties is to work with someone who has resume access to sites such as Indeed.com. Do a reverse resume search for a person who currently (or recently) holds the job you are interested in at the place you want to work. Virtually everyone will put items on their resume about their job which are not on the job description.
+
+Company information (part 3)
+It is surpsising to me how many companies really care about their competitors much more than their customers. Do some research on their competitors, and be prepared to talk about what you find.
 
 **Sixth**: It’s not only who you know, it’s also who knows you. 
 Get involved in (data science) communities, make contributions, offer to help at events, get your name out there!
@@ -141,10 +191,16 @@ https://www.meetup.com/topics/ (in case you want to see the whole list of Meetup
 **Seventh**:
 Do a search for current and former people in the role you are applying for, both at the company and competitors. Compare your skills/experiences/qualifications to people who actually got the job.
 
-Ask what most strongly predicts success in this role.
+• Questions you can ask when they look at you and say, 'So, do you have any questions for us?'
 
-Ask what is one thing you can do to improve your chances to get this role.
+Ask what most strongly predicts success in this role?
+
+I want to make sure I understand why the role is open, then show why my skills are a very strong match.
+
+Ask what is one thing you (the job candidate) can do to improve your probability of getting this role?
 
 Ask what the ideal (“Michael Jordan” or GOAT) candidate is like, then show how you can fill the role.
 
 Ask what the long range goals are for this role, then show how you can help meet those goals.
+
+I've done some research on your company, how open are you to ideas that might help improve results based on my research?
