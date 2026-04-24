@@ -157,7 +157,7 @@ You can look up the company's social media (of course)<br>
 <br>
 • Research their recent news (I do this a LOT!):<br>
 <br>
-news.google.com, then search for company name and time (I usually search the most recent 7 days)<br>
+news.google.com, then search for company name and time (I usually search the most recent 7 days if I already know their older news)<br>
 
 <img width="714" height="415" alt="Screenshot 2026-04-24 at 9 45 18 AM" src="https://github.com/user-attachments/assets/a99b3a3d-8ca8-4a14-834e-c97598ecf32f" />
 
