@@ -175,7 +175,7 @@ A great way to find out the real job duties is to work with someone who has resu
 Company information (part 3)
 It is surpsising to me how many companies really care about their competitors much more than their customers. Do some research on their competitors, and be prepared to talk about what you find.
 
-**Sixth**: It’s not only who you know, it’s also who knows you. Human to human contact seems to be getting the best results right now.
+**Sixth**: It’s not only who you know, it’s also who knows you. <b>Human to human contact seems to be getting the best results right now.</b>
 Get involved in (data science) communities, make contributions, offer to help at events, get your name out there!
 
 Join professional organizations in your field and GO TO EVENTS! Find your local chapters and join them!
