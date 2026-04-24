@@ -139,13 +139,16 @@ Great resources to learn more about companies:<br>
 <br>
 Apple on Github: https://github.com/apple (405 repositories)<br>
 Facebook (Meta) on Github: https://github.com/facebook (169 repositories)<br>
-Amazon on github: https://github.com/amzn (168 repositories)<br>
-Netflix: https://github.com/netflix (234 repositories)<br>
-NASA: https://github.com/nasa (615 repositories)<br>
-United States Department of Labor: https://github.com/USDepartmentofLabor (89 repositories)<br>
-The American National Red Cross: https://github.com/americanredcross (149 repositories)<br>
-Northwestern University Library (just the library systems): https://github.com/nulib (132 repositories)<br>
-Posit: https://github.com/posit-dev<br>
+Amazon on Github: https://github.com/amzn (168 repositories)<br>
+Netflix on Github: https://github.com/netflix (234 repositories)<br>
+NASA on Github: https://github.com/nasa (615 repositories)<br>
+United States Department of Labor on Github: https://github.com/USDepartmentofLabor (89 repositories)<br>
+The American National Red Cross on Github: https://github.com/americanredcross (149 repositories)<br>
+Northwestern University Library (just the library systems) on Github: https://github.com/nulib (132 repositories)<br>
+Posit on Github: https://github.com/posit-dev<br>
+Harvard Medical School - Department of Biomedical Informatics on Github: https://github.com/hms-dbmi<br>
+Top ten trending Github repositories: https://github.com/trending<br>
+Top trending Github developers: https://github.com/developers<br>
 <br>
 You can look up the company's social media (of course)<br>
 <br>
